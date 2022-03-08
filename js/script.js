@@ -22,7 +22,7 @@ const person = 'Dima';//`бэктик
 
 const bool = true;//ну ты сам знаешь что тут
 
-console.log(some);// в коде элемента будет null(не в прямом виде)
+console.log();// в коде элемента будет null(не в прямом виде)
 
 let und;
 console.log(und);//получение undefined, нет ничего в переменной
